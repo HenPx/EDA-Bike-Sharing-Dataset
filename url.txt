@@ -1,0 +1,2 @@
+https://px-eda-bikesharing.streamlit.app/
+pipreqs D:\Informatika\BANGKIT\submission\url.txt
